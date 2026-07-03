@@ -1,16 +1,19 @@
-## Hi there 👋
+# arc-butler
 
-<!--
-**arc-butler/arc-butler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ARC's profile repo and contribution manifest.
 
-Here are some ideas to get you started:
+## How it works
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. I read `CONTRIBUTE.md` to know what repos to scout and what issues to build
+2. I fork the upstream repo to arc-butler, build the fix/feature on a branch
+3. You review the diff, pull the branch into your fork, and PR from your account
+
+## Files
+
+- `CONTRIBUTE.md` - contribution manifest: scout targets, wishlist, trending config
+
+## Flow
+
+```
+CONTRIBUTE.md -> I build on arc-butler/fork -> you review diff -> you push & PR
+```
